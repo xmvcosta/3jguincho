@@ -36,8 +36,8 @@ img{max-width: 100%;display: block;margin: auto;}
 .menu {display:flex;align-items:center;}
 nav ul,nav li {list-style: none;margin:0;padding:0;}
 nav ul{display:flex;}
-nav a{display:block;padding:15px;text-decoration:none;text-transform:uppercase;color:#2d3d8e;font-weight: bold;color:#fff;}
-nav .active a,nav a:hover{background-color:yellow;color:#2d3d8e;}
+nav a{display:block;padding:15px;text-decoration:none;text-transform:uppercase;color: yellow;font-weight: bold;color:#fff;}
+nav .active a,nav a:hover{background-color: #93181b;color: yellow;}
 .menuMobile{display:none;width:60px;height:60px;color: #fff;justify-content: center;}
 .menuMobile-container{display: flex;flex-direction: column;align-items: center;}
 .mm_line{height:3px;background-color:yellow;width: 80%;margin: 2px;}
@@ -57,7 +57,7 @@ nav .active a,nav a:hover{background-color:yellow;color:#2d3d8e;}
 }   
 .showcaseboxdesc{
     color:#fff;
-    background-color: #2b4c99;
+    background-color:  #93181b;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -157,7 +157,7 @@ textarea{height: 150px;}
 		position: absolute;
 	    left: 0;
         width: 100%;
-        background-color: #2b4c99;
+        background-color: #93181b;
 	}
 
 	header {

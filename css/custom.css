@@ -3,7 +3,7 @@
 
 /*CLASSES AUXILIARES*/
 .container{margin:0 auto;max-width: 1280px;width: 95%;}
-.section{margin-top:0.5rem;padding-bottom: 1rem; background: #D0E4F5;}
+.section{margin-top:0.5rem;padding-bottom: 1rem; background: #fff;}
 .section h1{display: inline-block;padding: 0.5rem;color:#2d3d8e;background: yellow;border:1px solid red;}
 .section p{text-align:justify;text-indent: 2rem;}
 .wrapper{display:flex;flex-wrap: wrap;justify-content: center;}
@@ -18,11 +18,11 @@
 .fa-youtube {color:#FF0000;}
 
 /*CUSTOMIZAÇÃO*/
-body {background: #2d3d8e;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+body {background: #93181b;font-family: Verdana, Geneva, Tahoma, sans-serif;}
 img{max-width: 100%;display: block;margin: auto;}
 
 /*TOPOSITE*/
-#toposite{background-color: #2d3d8e;}
+#toposite{background-color: #93181b;}
 #topositeint{display: flex;justify-content: space-between;align-items: center;}
 
 /*BANNER*/
